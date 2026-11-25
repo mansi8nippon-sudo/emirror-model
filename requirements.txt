@@ -1,0 +1,13 @@
+# E-Mirror prototype requirements (Windows)
+
+# Image processing and camera capture
+opencv-python
+
+# Numerical operations
+numpy
+
+# ONNX model inference
+onnxruntime
+
+# Object tracking (used by src/tracker.py)
+trackers==2.7.0
